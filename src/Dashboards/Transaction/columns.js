@@ -1,0 +1,22 @@
+export const COLUMNS=[
+    {
+        Header:'Id',
+        accessor:'id'
+    },
+    {
+        Header:'Amount',
+        accessor:'amount'
+    },
+    {
+        Header:'Description',
+        accessor:'Description'
+    },
+    {
+        Header:'Customer_Email',
+        accessor:'email'
+    },
+    {
+        Header:'Date',
+        accessor:'date'
+    }
+]
